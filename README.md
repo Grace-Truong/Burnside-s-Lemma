@@ -1,1 +1,1 @@
-# Burnside-s-Lemma
+# Burnside's Lemma
